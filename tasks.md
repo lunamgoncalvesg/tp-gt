@@ -14,5 +14,5 @@ Estados: ✅ completada en este espacio de trabajo · ⏳ requiere servicio/cuen
 | T08 | Documentar uso y pruebas | Analista | README, informe, instalación y evidencia | Todas | T07 | Repositorio explicable y reproducible | ✅ |
 | T09 | Crear servicios y configurar secretos | Propietaria | Desplegar API, base y frontend con sus cuentas | RN12 | T08 | URLs públicas responden | ⏳ |
 | T10 | Verificar URL pública e informe final | Tester | Probar desde internet y agregar evidencia | HU01-HU06 | T09 | Demo pública completa y accesible | ⏳ |
-| T11 | Publicar cambios finales en GitHub | Propietaria | Revisar diff y hacer push a repo propio | Todas | T08 | Rama remota actualizada | ⏳ |
+| T11 | Publicar cambios finales en GitHub | Propietaria | Revisar diff y hacer push al repo nuevo | Todas | T08 | Rama remota actualizada | ✅ |
 

@@ -35,7 +35,7 @@ Verificación local realizada el 12/11/2026:
 - [x] Spec con RN numeradas, HU, aceptación y casos borde.
 - [x] AGENTS.md y perfiles de trabajo.
 - [x] Plan técnico y tareas.
-- [ ] Cada tarea registrada en un commit independiente en la historia remota.
+- [x] T01-T08 y T11 tienen un commit propio en `main`; la corrección final del README también quedó registrada.
 - [ ] Pruebas con base de datos y exploración manual desde navegador.
 - [ ] Despliegue público de frontend, API y base.
 - [ ] URL pública comprobada y agregada al README.
