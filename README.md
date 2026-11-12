@@ -72,6 +72,7 @@ El proyecto está preparado para publicar `client/` en Vercel y `server/` en un 
 - [informe.md](informe.md): orden de trabajo, pruebas y checklist.
 - [AGENTS.md](AGENTS.md) y `.agents/`: instrucciones y perfiles.
 
-## Repositorio
+## Repositorios
 
-Repositorio base: https://github.com/lunamgoncalvesg/proyecto-bd
+- Repositorio de entrega: https://github.com/lunamgoncalvesg/tp-gt
+- Prototipo anterior usado como referencia: https://github.com/lunamgoncalvesg/proyecto-bd (se mantiene separado e intacto).
