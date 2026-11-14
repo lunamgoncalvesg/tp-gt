@@ -5,7 +5,7 @@ CREATE TABLE IF NOT EXISTS clientes (
   nombre VARCHAR(120) NOT NULL,
   email VARCHAR(254) NOT NULL UNIQUE,
   fecha_nacimiento DATE NOT NULL,
-  password_hash VARCHAR(160) NOT NULL,
+  password_hash VARCHAR(255) NOT NULL,
   creado_en TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
